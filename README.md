@@ -19,6 +19,7 @@
 * https://freefrontend.com/css-animated-backgrounds
 
 # Tools
+* https://withresumeai.com/ — ResumeAI: AI resume builder + free ATS checker
 * https://github.com/agamm/awesome-developer-first
 * https://devutils.com
 * https://downgit.github.io/#/home
